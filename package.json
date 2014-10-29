@@ -1,0 +1,41 @@
+{
+  "name": "grunt-samsung",
+  "description": "Grunt task for compile samsung html5 apps using samsungstv-packager",
+  "version": "0.0.1",
+  "homepage": "https://github.com/raphaelluchini/grunt-samsungstv-packager",
+  "author": {
+    "name": "raphaelluchini",
+    "email": "laster.raphael@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raphaelluchini/grunt-samsungstv-packager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raphaelluchini/grunt-samsungstv-packager/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/raphaelluchini/grunt-samsungstv-packager/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

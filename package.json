@@ -1,5 +1,5 @@
 {
-  "name": "grunt-samsung",
+  "name": "grunt-samsungstv-packager",
   "description": "Grunt task for compile samsung html5 apps using samsungstv-packager",
   "version": "0.0.1",
   "homepage": "https://github.com/raphaelluchini/grunt-samsungstv-packager",

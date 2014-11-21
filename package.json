@@ -1,7 +1,7 @@
 {
   "name": "grunt-samsungstv-packager",
   "description": "Grunt task for compile samsung html5 apps using samsungstv-packager",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/raphaelluchini/grunt-samsungstv-packager",
   "author": {
     "name": "raphaelluchini",
@@ -35,6 +35,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "samsungstv-packager": "0.0.4"
+    "samsungstv-packager": "~0.0.5"
   }
 }
